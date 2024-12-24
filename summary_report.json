@@ -1,0 +1,10 @@
+{
+    "blacklisted_domains_provided": [
+        "malicious-site.com",
+        "phishing-example.net",
+        "blacklisteddomain.com"
+    ],
+    "blacklisted_domains_scraped": [],
+    "total_404_urls": 3,
+    "matching_blacklist_urls": 3
+}
